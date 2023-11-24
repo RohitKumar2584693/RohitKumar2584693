@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RohitKumar2584693
+- 👀 I’m interested in AI nd Data Science
+- 🌱 I’m currently learning Python,ML and DL.
+- 💞️ I’m open to collaborate.
